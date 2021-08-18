@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.stacksimplify.restservices.entities.User;
 import com.stacksimplify.restservices.services.UserService;
 
-//Controller -
+//Controller --
 @RestController
 public class UserController {
 
